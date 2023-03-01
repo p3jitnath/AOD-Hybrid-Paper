@@ -3,7 +3,7 @@
 ### Directory
 The repository is structured on the basis of 3 cities mentioned in the study along with the pollution data used.
 
-> :warning: Please **DO NOT** run the notebooks in your local machine due to non-matching dependencies. Refer to the [workbench_environment.txt](./workbench_environment.txt) for specific package versions.
+> :warning: Please refer to the [workbench_environment.txt](./workbench_environment.txt) for specific package versions.
 
 ```
 .
